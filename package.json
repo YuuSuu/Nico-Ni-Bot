@@ -2,7 +2,7 @@
   "name": "Nico Ni BOT",
   "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
   "version": "1.0.0",
-  "main": "bot.js", C:\Users\YuuSu\Downloads\Nico Ni BOT
+  "main": "bot.js", C:\Program Files\NadekoBot
   "scripts": {
     "start": "node bot.js"
   },
