@@ -1,1 +1,1 @@
-worker: node bot.js C:\Users\YuuSu\Downloads\Nico Ni BOT
+worker: node bot.js C:\Program Files\NadekoBot
