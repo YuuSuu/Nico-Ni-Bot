@@ -1,1 +1,1 @@
-worker node bot.js C:\Program Files\NadekoBot
+worker node bot.js
